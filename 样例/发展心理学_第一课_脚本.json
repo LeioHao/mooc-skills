@@ -1,0 +1,127 @@
+{
+  "task_id": "dev_psy_lesson_01",
+  "course_info": {
+    "course_name": "发展心理学",
+    "module_name": "绪论",
+    "lesson_title": "发展心理学的界定"
+  },
+  "script": {
+    "total_duration_seconds": 480,
+    "sections": [
+      {
+        "section_id": "opening",
+        "title": "开场导入",
+        "start_time": 0,
+        "end_time": 45,
+        "content": "同学们好！欢迎来到《发展心理学》课堂。在开始学习之前，我想请大家思考一个问题：一个人从出生到年老，他的心理是如何变化的？婴儿如何认识世界？儿童如何学会思考？青少年为什么会有叛逆期？成年人如何面对中年危机？老年人如何适应退休生活？这些问题，都属于发展心理学的研究范畴。今天，我们就来学习——什么是发展心理学。",
+        "slide_index": 1,
+        "animation_triggers": [
+          {"time": 5, "type": "title_fade_in"},
+          {"time": 15, "type": "question_highlight"}
+        ]
+      },
+      {
+        "section_id": "part1",
+        "title": "什么是发展心理学",
+        "start_time": 45,
+        "end_time": 135,
+        "content": "首先，我们来看发展心理学的定义。发展心理学是研究个体从生命初始到生命结束整个过程中心理变化规律的科学。让我们拆解这个定义中的三个关键词：第一个关键词是"个体"。发展心理学研究的是单个个体的心理发展，而不是群体的心理特征。这使它区别于社会心理学。第二个关键词是"生命全程"。传统上，人们认为发展心理学只研究儿童，但实际上，发展贯穿人的一生——从胎儿期到老年期，每个阶段都有独特的发展任务和规律。第三个关键词是"变化规律"。发展心理学不仅描述心理变化的现象，更重要的是揭示这些变化背后的规律和机制。",
+        "slide_index": 4,
+        "animation_triggers": [
+          {"time": 50, "type": "definition_show"},
+          {"time": 70, "type": "keyword_highlight", "target": "个体"},
+          {"time": 90, "type": "keyword_highlight", "target": "生命全程"},
+          {"time": 110, "type": "keyword_highlight", "target": "变化规律"}
+        ]
+      },
+      {
+        "section_id": "part2",
+        "title": "研究对象与范围",
+        "start_time": 135,
+        "end_time": 225,
+        "content": "接下来，我们了解发展心理学的研究对象和范围。发展心理学的研究对象是个体的心理发展，主要包括两个方面：一是心理发展的年龄特征。不同年龄阶段的人，其心理特点有明显的差异。比如，婴儿主要依靠感知觉认识世界，而青少年已经能够进行抽象思维。二是心理发展的基本规律。包括发展的连续性与阶段性、普遍性与特殊性、遗传与环境的作用等基本问题。这里要特别介绍一个重要概念——生命全程发展观。这是20世纪70年代以来发展心理学的重要转变。它强调：发展贯穿生命始终，不仅限于儿童期；每个年龄阶段都有其发展任务和挑战；发展是获得与丧失的动态过程；发展受多种因素影响，包括生物、心理、社会因素。",
+        "slide_index": 6,
+        "animation_triggers": [
+          {"time": 140, "type": "card_show", "target": "年龄特征"},
+          {"time": 160, "type": "card_show", "target": "基本规律"},
+          {"time": 180, "type": "timeline_show"},
+          {"time": 200, "type": "points_reveal"}
+        ]
+      },
+      {
+        "section_id": "part3",
+        "title": "发展心理学的研究领域",
+        "start_time": 225,
+        "end_time": 345,
+        "content": "发展心理学具体研究哪些内容呢？主要包括以下几个领域：第一，感知觉与动作发展。研究个体如何通过感官认识世界，以及动作能力如何发展。比如，婴儿什么时候能看清物体？什么时候学会走路？这些都是感知觉与动作发展研究的问题。第二，认知与思维发展。研究个体的智力、思维、语言等认知能力的发展。皮亚杰的认知发展阶段理论就是这一领域的经典理论。我们会学习儿童如何从感知运动阶段发展到形式运算阶段。第三，情绪发展。研究个体情绪的产生、表达和调节能力的发展。比如，婴儿什么时候开始有情绪？儿童如何学会控制情绪？第四，个性与社会性发展。研究个体的性格、自我意识、人际关系等方面的发展。包括依恋关系的形成、性别角色的发展、道德发展等重要主题。这四个领域相互关联，共同构成了发展心理学的研究版图。",
+        "slide_index": 7,
+        "animation_triggers": [
+          {"time": 230, "type": "field_card_show", "target": "感知觉"},
+          {"time": 260, "type": "field_card_show", "target": "认知"},
+          {"time": 290, "type": "field_card_show", "target": "情绪"},
+          {"time": 320, "type": "field_card_show", "target": "个性社会性"}
+        ]
+      },
+      {
+        "section_id": "part4",
+        "title": "与相关学科的关系",
+        "start_time": 345,
+        "end_time": 435,
+        "content": "最后，我们来区分发展心理学与相关学科的关系。发展心理学与儿童心理学。很多人会混淆这两个概念。儿童心理学只研究儿童期的心理发展，而发展心理学研究的是生命全程的心理发展。可以说，发展心理学是儿童心理学的扩展和延伸。发展心理学与教育心理学。两者有密切联系，但侧重点不同。教育心理学关注教育情境中的心理现象和规律，而发展心理学关注心理发展的一般规律。发展心理学为教育心理学提供理论基础。发展心理学与普通心理学。普通心理学研究心理活动的一般规律，而发展心理学研究心理活动随年龄变化的规律。发展心理学是普通心理学的重要分支学科。",
+        "slide_index": 12,
+        "animation_triggers": [
+          {"time": 350, "type": "comparison_show", "target": "儿童心理学"},
+          {"time": 380, "type": "comparison_show", "target": "教育心理学"},
+          {"time": 410, "type": "comparison_show", "target": "普通心理学"}
+        ]
+      },
+      {
+        "section_id": "summary",
+        "title": "总结回顾",
+        "start_time": 435,
+        "end_time": 480,
+        "content": "让我们回顾今天学习的主要内容：第一，发展心理学是研究个体从生命初始到生命结束整个过程中心理变化规律的科学。第二，发展心理学的研究对象是个体的心理发展，包括年龄特征和基本规律。第三，生命全程发展观强调发展贯穿生命始终，每个阶段都有独特的发展任务。第四，发展心理学研究感知觉、认知、情绪、个性社会性等多个领域的发展。思考题：为什么说发展心理学研究的是「生命全程」的发展？请结合生活实例说明。",
+        "slide_index": 13,
+        "animation_triggers": [
+          {"time": 440, "type": "point_reveal", "target": 1},
+          {"time": 455, "type": "point_reveal", "target": 2},
+          {"time": 465, "type": "point_reveal", "target": 3},
+          {"time": 475, "type": "point_reveal", "target": 4}
+        ]
+      }
+    ]
+  },
+  "voice_config": {
+    "language": "zh-CN",
+    "voice_type": "female_warm",
+    "speed": 1.0,
+    "style": "friendly",
+    "pitch": 0,
+    "volume": 0
+  },
+  "teacher_config": {
+    "source": "template",
+    "template_id": "T002",
+    "teaching_style": "friendly",
+    "energy_level": "moderate",
+    "gesture_frequency": "normal",
+    "expression_intensity": "medium"
+  },
+  "position_config": {
+    "strategy": "auto_detect",
+    "default_position": "bottom_right",
+    "teacher_size": "18%",
+    "opacity": 1.0
+  },
+  "animation_config": {
+    "enabled": true,
+    "sync_with_audio": true,
+    "tolerance_ms": 300
+  },
+  "video_output": {
+    "resolution": "1920x1080",
+    "frame_rate": 30,
+    "video_codec": "h264",
+    "audio_codec": "aac"
+  }
+}
