@@ -1,0 +1,37 @@
+{
+  "name": "mooc-skills",
+  "version": "1.0.0",
+  "description": "微课视频制作技能系统 - 从自然语言需求到MOOC认证视频的端到端自动化生产",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "docs": "jsdoc -d docs/js"
+  },
+  "keywords": [
+    "mooc",
+    "microcourse",
+    "video-production",
+    "elearning",
+    "education",
+    "skills"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeioHao/mooc-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeioHao/mooc-skills/issues"
+  },
+  "homepage": "https://github.com/LeioHao/mooc-skills#readme",
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "eslint": "^8.0.0",
+    "jsdoc": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
